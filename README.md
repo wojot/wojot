@@ -1,1 +1,1 @@
-wojot
+Technologies: PHP, CodeIgniter, Bootstrap, Dropzone, Lightbox, HTML, CSS.

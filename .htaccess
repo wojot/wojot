@@ -1,0 +1,14 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [L]
+
+Redirect /de http://wojot.pl/old/de
+Redirect /eng http://wojot.pl/old/eng
+
+#RewriteBase /
+              #<FilesMatch "\.(ttf|otf|woff)$">
+              #    <IfModule mod_headers.c>
+              #        Header set Access-Control-Allow-Origin "*"
+              #    </IfModule>
+              #</FilesMatch>

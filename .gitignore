@@ -4,9 +4,4 @@
 /images/old/*
 /uploads/*
 /user_guide/*
-
-/application/config_wojot/config.php
-/application/config_wojot/database.php
-/application/config/config.php
-/application/config/database.php
-database.php
+/application/config_wojot/*

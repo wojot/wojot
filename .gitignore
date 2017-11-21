@@ -8,5 +8,5 @@
 /application/config_wojot/config.php
 /application/config_wojot/database.php
 /application/config/config.php
-/application/config/
+/application/config/database.php
 database.php
